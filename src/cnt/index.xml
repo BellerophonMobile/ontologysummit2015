@@ -1,0 +1,50 @@
+<!DOCTYPE xsl:stylesheet [ 
+  <!ENTITY nbsp "&#160;">
+  <!ENTITY lt "&#60;">
+  <!ENTITY gt "&#62;">
+  <!ENTITY lang "&#9001;">
+  <!ENTITY rang "&#9002;">
+  <!ENTITY amp "&#38;">
+]>
+
+<page xmlns:html="http://www.w3.org/1999/xhtml"
+      main="true">
+
+<content>
+          <p>The <a href="http://ontolog.cim3.net/OntologySummit/">Ontology
+          Summit</a> is an annual series of events (first started by
+          <a href="http://ontolog.cim3.net/">Ontolog</a>
+          and <a href="http://www.nist.gov/">NIST</a> in 2006) that
+          involves the ontology community and communities related to
+          each year's theme chosen for the summit. The Ontology Summit
+          program is now co-organized by
+          <a href="http://ontolog.cim3.net/">Ontolog</a>,
+          <a href="http://www.nist.gov/">NIST</a>,
+          <a href="http://ncor.us/">NCOR</a>,
+          <a href="http://www.bioontology.org/">NCBO</a>,
+          <a href="http://www.iaoa.org/">IAOA</a>,
+          and <a href="https://www.nitrd.gov/">NCO NITRD</a>, along
+          with the co-sponsorship of other organizations that are
+          supportive of the Summit goals and objectives.</p>
+
+          <p>This year's topic is <em>The Internet of Things: Toward
+          Smart Networked Systems and Societies</em>.</p>
+          
+          <h4>Internet of Things</h4>
+
+          <h4>Tracks</h4>
+          <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+        <div class="col-lg-6">
+          <h4>A: </h4>
+          <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+
+          <h4>B: </h4>
+          <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+
+          <h4>C: </h4>
+          <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+        </div>
+</content>
+
+</page>
