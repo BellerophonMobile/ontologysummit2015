@@ -9,8 +9,68 @@
 
 <page xmlns:html="http://www.w3.org/1999/xhtml"
       category="events">
-  <title>2015 Events</title>
+  <title>2015 Summit Events</title>
   
   <content>
+    <p>
+    Following its established pattern, this year's <strong><a
+    href="http://ontolog.cim3.net/OntologySummit/">Ontology
+    Summit</a></strong> consists of a series of weekly virtual
+    discussions, followed by a 2-day face-to-face gathering.
+    </p>
+
+    
+    <h4>Virtual Meetings</h4>
+
+    <p>Each week a virtual meeting is held to discuss one of the topic
+    tracks of the summit.  Champions for that topic coordinate several
+    speakers, and anyone interested may participate via telecon and a
+    simultaneous text chat.  Slides, audio recordings, and transcripts
+    for previous meetings are available on the wiki pages linked
+    below.  For timely announcements and details of upcoming calls
+    join the <a
+    href="http://ontolog.cim3.net/mailman/listinfo/ontology-summit">Ontology
+    Summit mailing list</a> and/or track the <a
+    href="http://ontolog-02.cim3.net/wiki/OntologySummit2015">2015
+    Ontology Summit Wiki</a>.</p>
+
+    <p>
+      <ul>
+        <li>
+          <strong>Track A: Ontology Integration in IoT</strong><br/>
+          Champions: Ram Sriram and Leo Obrst<br/>
+          Events: <a href="http://ontolog-02.cim3.net/wiki/ConferenceCall_2015_02_05">February 5</a>, March 12
+        </li>
+
+        <li>
+          <strong>Track B: Beyond Semantic Sensor Network Ontologies</strong><br/>
+          Champions: Torsten Hahmann, Gary Berg-Cross<br/>
+          Events: <a href="http://ontolog-02.cim3.net/wiki/ConferenceCall_2015_01_29">January 29</a>, <a href="http://ontolog-02.cim3.net/wiki/ConferenceCall_2015_03_05">March 5</a>
+        </li>
+
+        <li>
+          <strong>Track C: Decision Making in Different Domains</strong><br/>
+          Champions: Mike Bennett, Michael Gruninger<br/>
+          Events: <a href="http://ontolog-02.cim3.net/wiki/ConferenceCall_2015_02_12">February 12</a>
+        </li>
+
+        <li>
+          <strong>Track D: Related Standards and Synergies for Emerging IoT Ontologies</strong><br/>
+          Champions: Mark Underwood<br/>
+          Events: <a href="http://ontolog-02.cim3.net/wiki/ConferenceCall_2015_01_22">January 22</a>, <a href="http://ontolog-02.cim3.net/wiki/ConferenceCall_2015_02_26">February 26</a>
+        </li>
+
+        <li>
+          <strong>Overview, Synthesis, and Communique</strong><br/>
+          Events: <a href="http://ontolog-02.cim3.net/wiki/ConferenceCall_2015_01_15">January 15</a>, <a href="http://ontolog-02.cim3.net/wiki/ConferenceCall_2015_02_19">February 19</a>, March 26, April 2
+        </li>
+</ul>
+    </p>
+    
+    <h4>Face-to-Face Gathering</h4>
+
+    <p>This year's face-to-face meeting will be <strong>April 13 and
+    14</strong>, in <strong>Arlington, Virginia, USA</strong>.
+    Details will be posted as they become available.</p>
   </content>
 </page>

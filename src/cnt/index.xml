@@ -29,7 +29,7 @@
   co-sponsorship of other organizations that are supportive of the
   Summit goals and objectives.</p>
           
-  <h4>Internet of Things</h4>
+  <h3>Internet of Things</h3>
 
   <p>This year's summit topic is <strong><em class="text-warning">The
   Internet of Things: Toward Smart Networked Systems and
@@ -49,7 +49,7 @@
   pull-right">Read More...</a></p>
           
           
-  <h4>Events</h4>
+  <h3>Events</h3>
   <p>The 2015 <strong><a
   href="http://ontolog.cim3.net/OntologySummit/">Ontology
   Summit</a></strong> is roughly organized into four tracks:</p>
@@ -76,10 +76,24 @@
   April 13--14.</strong> <a href="events.html" class="btn btn-primary
   btn-sm pull-right">Participate...</a></p>
 
-  <div style="clear:both; margin-bottom: 24px;" />
-  
-  <h4>Share This!</h4>
-  
+  <div style="clear:both;" />
+
+  <h3>Wiki</h3>
+  <p>Logistical details, session materials, and outcome documents are
+  all being collaboratively developed live and archived on the
+  <strong><a
+  href="http://ontolog-02.cim3.net/wiki/OntologySummit2015">2015
+  Ontology Summit Wiki</a></strong>.  <a href="http://ontolog-02.cim3.net/wiki/OntologySummit2015" target="_blank" class="btn
+  btn-primary btn-sm pull-right">Check It Out!</a></p>
+
+  <div style="clear:both; margin-bottom:36px;" />
+
+  <h3>Share This</h3>
+
+  <p>The <strong><a
+  href="http://ontolog.cim3.net/OntologySummit/">Ontology
+  Summit</a></strong> is more meaningful and valuable the larger its
+  community grows.  Help spread the word!</p>
   <div class="text-center">
     <!-- Twitter -->
     <a href="http://twitter.com/home?status=$TITLE $URL"

@@ -117,7 +117,7 @@
           </ul>
 
         </nav>
-        <h3>Ontology Summit 2015</h3>
+        <h2>Ontology Summit 2015</h2>
       </div>
 
       <xsl:choose>
@@ -137,7 +137,7 @@
         <div class="justify">
 
           <xsl:if test="title">
-            <h4><xsl:value-of select="title" /></h4>
+            <h3><xsl:value-of select="title" /></h3>
           </xsl:if>
           
           <xsl:copy-of select="content" />
