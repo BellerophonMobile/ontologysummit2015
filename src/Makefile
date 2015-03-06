@@ -8,6 +8,7 @@ LIB=templates/
 LIB_XSL=
 
 all: $(OUT)vision.html                                                 \
+     $(OUT)events.html                                                 \
      $(OUT)index.html
 
 

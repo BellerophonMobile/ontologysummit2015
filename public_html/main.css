@@ -3,8 +3,8 @@ body {
   padding-top: 20px;
   padding-bottom: 20px;
 
-  background-color: #2d2d2d;
-  color: #ffffff;
+/*  background-color: #2d2d2d;
+  color: #ffffff; */
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
@@ -30,6 +30,12 @@ body {
   color: #eeac34;
 }
 
+.textgraphic {
+    padding: 8px;
+    margin: 4px 0px 4px 12px;
+    border: 1px solid black;
+}
+
 .justify {
     text-align: justify;
     text-justify: inter-word;
@@ -37,9 +43,12 @@ body {
 
 /* Custom page footer */
 .footer {
-  padding-top: 19px;
+  padding-top: 9px;
   color: #777;
-  border-top: 1px solid #e5e5e5;
+  border-top: 12px solid #456785;
+
+  font-size: 80%;
+  text-align: center;
 }
 
 /* Customize container */
@@ -87,4 +96,81 @@ body {
   .jumbotron {
     border-bottom: 0;
   }
+}
+
+
+/* ------------------------------------------------------------------ */
+/* ------------------------------------------------------------------ */
+
+.btn-twitter {
+    background: #00acee;
+    border-radius: 0;
+    color: #fff
+}
+.btn-twitter:link, .btn-twitter:visited {
+    color: #fff
+}
+.btn-twitter:active, .btn-twitter:hover {
+    background: #0087bd;
+    color: #fff
+}
+.btn-facebook {
+    background: #3b5998;
+    border-radius: 0;
+    color: #fff
+}
+.btn-facebook:link, .btn-facebook:visited {
+    color: #fff
+}
+.btn-facebook:active, .btn-facebook:hover {
+    background: #30477a;
+    color: #fff
+}
+.btn-googleplus {
+    background: #e93f2e;
+    border-radius: 0;
+    color: #fff
+}
+.btn-googleplus:link, .btn-googleplus:visited {
+    color: #fff
+}
+.btn-googleplus:active, .btn-googleplus:hover {
+    background: #ba3225;
+    color: #fff
+}
+.btn-stumbleupon {
+    background: #f74425;
+    border-radius: 0;
+    color: #fff
+}
+.btn-stumbleupon:link, .btn-stumbleupon:visited {
+    color: #fff
+}
+.btn-stumbleupon:active, .btn-stumbleupon:hover {
+    background: #c7371e;
+    color: #fff
+}
+.btn-linkedin {
+    background: #0e76a8;
+    border-radius: 0;
+    color: #fff
+}
+.btn-linkedin:link, .btn-linkedin:visited {
+    color: #fff
+}
+.btn-linkedin:active, .btn-linkedin:hover {
+    background: #0b6087;
+    color: #fff
+                      }
+.btn-reddit {
+    background: #0e76a8;
+    border-radius: 0;
+    color: #fff
+}
+.btn-reddit:link, .btn-reddit:visited {
+    color: #fff
+}
+.btn-reddit:active, .btn-reddit:hover {
+  background: #6D91A6;
+  color: #fff
 }

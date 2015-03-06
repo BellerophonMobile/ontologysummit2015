@@ -7,7 +7,8 @@
   <!ENTITY amp "&#38;">
 ]>
 
-<page xmlns:html="http://www.w3.org/1999/xhtml">
+<page xmlns:html="http://www.w3.org/1999/xhtml"
+      category="vision">
   <title>Ontologies and The Internet of Things</title>
   
   <content>
@@ -39,6 +40,10 @@
     net-centric societies will create.
     </p>
 
+    <div class="pull-right textgraphic">
+      <img src="art/coffee.svg" alt="Connected coffeemaker." title="Connected coffeemaker." />
+    </div>
+    
     <p>
     Well-designed and constructed net-centric societies will result in
     better quality of life, reduced threat from external sources, and
@@ -70,5 +75,10 @@
     situational awareness), and using these ontologies in decision
     making.
     </p>
+
+    <p>The purpose of this year's <strong><a
+    href="http://ontolog.cim3.net/OntologySummit/">Ontology Summit</a></strong>
+    is to explicate such applications of ontologies to the challenges
+    and promises of The Internet of Things.</p>
   </content>
 </page>

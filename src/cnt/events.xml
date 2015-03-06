@@ -1,0 +1,16 @@
+<!DOCTYPE xsl:stylesheet [ 
+  <!ENTITY nbsp "&#160;">
+  <!ENTITY lt "&#60;">
+  <!ENTITY gt "&#62;">
+  <!ENTITY lang "&#9001;">
+  <!ENTITY rang "&#9002;">
+  <!ENTITY amp "&#38;">
+]>
+
+<page xmlns:html="http://www.w3.org/1999/xhtml"
+      category="events">
+  <title>2015 Events</title>
+  
+  <content>
+  </content>
+</page>
