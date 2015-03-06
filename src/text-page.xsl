@@ -122,12 +122,12 @@
 
       <xsl:choose>
         <xsl:when test="@main">
-          <img src="art/iot.svg" width="100%"
+          <img src="art/iot.png" width="100%"
                alt="Internet of Things header graphic."
                title="Internet of Things" />
         </xsl:when>
         <xsl:otherwise>
-          <img src="art/iot-banner.svg" width="100%"
+          <img src="art/iot-banner.png" width="100%"
                alt="Internet of Things banner."
                title="Internet of Things" />
         </xsl:otherwise>
