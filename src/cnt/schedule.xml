@@ -1,0 +1,143 @@
+<!DOCTYPE xsl:stylesheet [ 
+  <!ENTITY nbsp "&#160;">
+  <!ENTITY lt "&#60;">
+  <!ENTITY gt "&#62;">
+  <!ENTITY lang "&#9001;">
+  <!ENTITY rang "&#9002;">
+  <!ENTITY amp "&#38;">
+]>
+
+<page xmlns:html="http://www.w3.org/1999/xhtml"
+      navpath="events,schedule">
+  <title>2015 Symposium Schedule</title>
+  
+  <content>
+    <p>The following is the tentative schedule for this year's symposium.</p>
+
+    <h3>Monday, April 13</h3>
+    <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th>Time</th>
+          <th>Activity</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>08:30</td>
+          <td>Breakfast</td>
+        </tr>
+        <tr>
+          <td>09:00</td>
+          <td>Welcome, Introductions, Opening Remarks</td>
+        </tr>
+        <tr>
+          <td>09:30</td>
+          <td>Keynote</td>
+        </tr>
+        <tr>
+          <td>10:30</td>
+          <td>Break</td>
+        </tr>
+        <tr>
+          <td>11:00</td>
+          <td>Summary Report for Track A---Ontology Integration in
+          IoT</td>
+        </tr>
+        <tr>
+          <td>11:45</td>
+          <td>Summary Report for Track B---Beyond Semantic Sensor
+          Network Ontologies</td>
+        </tr>
+        <tr>
+          <td>12:30</td>
+          <td>Lunch</td>
+        </tr>
+        <tr>
+          <td>14:00</td>
+          <td>Keynote</td>
+        </tr>
+        <tr>
+          <td>15:00</td>
+          <td>Summary Report for Track C---Decision Making in
+          Different Domains</td>
+        </tr>
+        <tr>
+          <td>15:45</td>
+          <td>Summary Report for Track D---Related Standards And
+          Synergies for Emerging IoI Ontologies</td>
+        </tr>
+        <tr>
+          <td>16:30</td>
+          <td>Open Discussion</td>
+        </tr>
+        <tr>
+          <td>18:30</td>
+          <td>Group Dinner</td>
+        </tr>
+      </tbody>
+    </table>
+    
+    <h3>Tuesday, April 14</h3>
+    <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th>Time</th>
+          <th>Activity</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>08:30</td>
+          <td>Breakfast</td>
+        </tr>
+        <tr>
+          <td>09:00</td>
+          <td>Keynote</td>
+        </tr>
+        <tr>
+          <td>10:00</td>
+          <td>Presentation of the 2015 Ontology Summit Communique</td>
+        </tr>
+        <tr>
+          <td>10:45</td>
+          <td>Affirmation of Communique</td>
+        </tr>
+        <tr>
+          <td>11:00</td>
+          <td>Break</td>
+        </tr>
+        <tr>
+          <td>11:15</td>
+          <td>Demo Session</td>
+        </tr>
+        <tr>
+          <td>12:45</td>
+          <td>Lunch</td>
+        </tr>
+        <tr>
+          <td>14:00</td>
+          <td>Panel Discussion</td>
+        </tr>
+        <tr>
+          <td>15:30</td>
+          <td>Conclusion and Next Steps</td>
+        </tr>
+        <tr>
+          <td>16:00</td>
+          <td>Symposium Adjourns</td>
+        </tr>
+      </tbody>
+    </table>
+  </content>
+</page>
+
+<!--
+Dr. Keith Marzullo, Division Director, Computer and Networks Systems Division, CISE, National Science Foundation will talk on NSF's initiatives in CPS/IoT (on April 13th)
+Dr. Bradford Hesse, Chief, Health Communication and Informatics Research Branch,  from National Cancer Institute, NIH, will be giving an overview of IoT activities at NIH (on April 14th)
+
+Dr. Chris Greer, who is in charge of the NIST's CPS program in unable to come as he has a conflict with the CPS week. He is going to ask his deputy, Dave Wollman, if he can address us.
+
+I am yet to hear from Lynne Canavan, Senior Program Manager for the Industrial Internet Consortium. I hope to meet her next week to discuss this.
+I have not contacted anyone from DARPA. I can contact Bill Regli, Deputy Division Director  in the Defense Sciences Office to check his availability if you want me to.
+-->

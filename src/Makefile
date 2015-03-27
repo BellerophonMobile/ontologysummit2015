@@ -8,7 +8,11 @@ LIB=templates/
 LIB_XSL=
 
 all: $(OUT)vision.html                                                 \
-     $(OUT)events.html                                                 \
+     $(OUT)organizers.html                                             \
+     $(OUT)virtuals.html                                               \
+     $(OUT)symposium.html                                              \
+     $(OUT)registration.html                                           \
+     $(OUT)schedule.html                                               \
      $(OUT)index.html
 
 

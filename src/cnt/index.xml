@@ -9,7 +9,7 @@
 
 <page xmlns:html="http://www.w3.org/1999/xhtml"
       main="true"
-      category="main">
+      navpath="main">
 
 <content>
 
@@ -27,7 +27,7 @@
   href="http://www.iaoa.org/">IAOA</a>, and <a
   href="https://www.nitrd.gov/">NCO NITRD</a>, along with the
   co-sponsorship of other organizations that are supportive of the
-  Summit goals and objectives.</p>
+  summit goals and objectives.</p>
           
   <h3>Internet of Things</h3>
 
@@ -69,12 +69,16 @@
       IoT Ontologies</em>
     </li>
   </ul>      
-  <p class=".clearfix">A series of <strong>weekly virtual
-  events</strong> is scheduled to discuss these topics throughout
-  February and March.  The summit will then conclude with a
-  <strong>2-day, face-to-face meeting in Arlington, Virginia, USA, on
-  April 13--14.</strong> <a href="events.html" class="btn btn-primary
-  btn-sm pull-right">Participate...</a></p>
+  <p class=".clearfix">A series of <strong><a
+  href="virtuals.html">weekly virtual events</a></strong> is scheduled
+  to discuss these topics throughout February and March.  The summit
+  will then conclude with a <strong><a href="symposium.html">2-day,
+  face-to-face symposium</a></strong> in Arlington, Virginia, USA, on
+  April 13--14.  <a href="symposium.html" class="btn btn-primary
+  btn-sm pull-right">Attend the symposium...</a> <a
+  href="virtuals.html" class="btn btn-primary btn-sm pull-right" style="margin-right:18px">Join
+  virtually...</a></p>
+  
 
   <div style="clear:both;" />
 

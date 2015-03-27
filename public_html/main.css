@@ -29,6 +29,11 @@ body {
   color: #eeac34;
 }
 
+.hangingindent {
+    padding-left: 22px;
+    text-indent: -22px;
+}
+
 .textgraphic {
     padding: 8px;
     margin: 4px 0px 4px 12px;

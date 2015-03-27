@@ -70,8 +70,30 @@
         <nav>
           <ul class="nav nav-pills pull-right">
             <li role="presentation" id="n-main"><a href="index.html">Main</a></li>
-            <li role="presentation" id="n-vision"><a href="vision.html">Vision</a></li>
-            <li role="presentation" id="n-events"><a href="events.html">Events</a></li>
+
+            <li role="presentation" id="n-about" class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About <span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li id="n-vision"><a href="vision.html">Vision</a></li>
+                <li id="n-organizers"><a href="organizers.html">Organizers</a></li>
+              </ul>
+            </li>
+            
+            <li role="presentation" id="n-events" class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Events <span class="caret"></span></a>
+
+              <ul class="dropdown-menu" role="menu">
+                <li id="n-virtuals"><a href="virtuals.html">Virtual Meetings</a></li>
+                <li role="presentation" class="divider"></li>
+                <li id="n-symposium"><a href="symposium.html">Symposium Overview</a></li>
+                <li id="n-schedule"><a href="schedule.html">Symposium Schedule</a></li>
+                <li id="n-registration"><a href="registration.html">Symposium Registration</a></li>
+              </ul>
+            </li>
+
+            <li role="presentation" id="n-wiki">
+              <a href="http://ontolog-02.cim3.net/wiki/OntologySummit2015">Wiki</a>
+            </li>
             <li>
               <div class="text-center" style="font-size:50%;">
                 <!-- Twitter -->
@@ -159,13 +181,14 @@
 
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="ie10-viewport-bug-workaround.js"></script>
     <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <script src="ie10-viewport-bug-workaround.js"></script>
     
     <script language="javascript">
-      var category =
+      var navpath =
       <xsl:choose>
-        <xsl:when test="@category">"#n-<xsl:value-of select="@category" />";</xsl:when>
+        <xsl:when test="@navpath">"<xsl:value-of select="@navpath" />";</xsl:when>
         <xsl:otherwise>"";</xsl:otherwise>
       </xsl:choose>
     </script>

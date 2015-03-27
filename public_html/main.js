@@ -1,8 +1,13 @@
 $(document).ready(function () {
-  
-  $(".nav li").removeClass("active");
-  $(category).addClass('active');
 
+  // Highlight the current page in the navbar
+  $(".nav li").removeClass("active");
+  var naventries = navpath.split(',');
+  for (var i = 0; i < naventries.length; i++) {
+    $("#n-" + naventries[i]).addClass('active');
+  }
+
+  // Prepare the social media links
   var url = encodeURIComponent(window.location.href);
   var title = encodeURIComponent(document.title);
 

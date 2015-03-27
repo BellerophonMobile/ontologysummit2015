@@ -1,0 +1,47 @@
+<!DOCTYPE xsl:stylesheet [ 
+  <!ENTITY nbsp "&#160;">
+  <!ENTITY lt "&#60;">
+  <!ENTITY gt "&#62;">
+  <!ENTITY lang "&#9001;">
+  <!ENTITY rang "&#9002;">
+  <!ENTITY amp "&#38;">
+]>
+
+<page xmlns:html="http://www.w3.org/1999/xhtml"
+      navpath="events,symposium">
+  <title>2015 Ontology Summit Symposium</title>
+  
+  <content>
+    <p>
+    Following its established pattern, this year's <strong><a
+    href="http://ontolog.cim3.net/OntologySummit/">Ontology
+    Summit</a></strong> consists of a series of <a
+    href="virtuals.html">weekly virtual discussions</a>, followed by a
+    2-day face-to-face symposium.
+    </p>
+
+    <p>This year's face-to-face meeting will be <strong>April 13 and
+    14</strong>, in <strong>Arlington, Virginia, USA</strong>.</p>
+
+    <h3>Registration</h3>
+    <p>The symposium is free of charge, but all physical attendees
+    must <a href="registration.html">register</a> in advance.  <a
+    href="registration.html" class="btn btn-primary btn-sm
+    pull-right">Register!</a></p>
+
+    <h3>Schedule</h3>
+    <p>Several excellent keynote speakers, expert panels, and group
+    discussions are on the docket for this year.<a
+    href="schedule.html" class="btn btn-primary btn-sm pull-right">See
+    the Schedule...</a></p>
+
+  </content>
+</page>
+
+<!--
+Dr. Keith Marzullo, Division Director, Computer and Networks Systems Division, CISE, National Science Foundation will talk on NSF's initiatives in CPS/IoT (on April 13th)
+Dr. Bradford Hesse, Chief, Health Communication and Informatics Research Branch,  from National Cancer Institute, NIH, will be giving an overview of IoT activities at NIH (on April 14th)
+Dr. Chris Greer, who is in charge of the NIST's CPS program in unable to come as he has a conflict with the CPS week. He is going to ask his deputy, Dave Wollman, if he can address us.
+I am yet to hear from Lynne Canavan, Senior Program Manager for the Industrial Internet Consortium. I hope to meet her next week to discuss this.
+I have not contacted anyone from DARPA. I can contact Bill Regli, Deputy Division Director  in the Defense Sciences Office to check his availability if you want me to.
+-->

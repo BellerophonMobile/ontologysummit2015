@@ -1,0 +1,26 @@
+<!DOCTYPE xsl:stylesheet [ 
+  <!ENTITY nbsp "&#160;">
+  <!ENTITY lt "&#60;">
+  <!ENTITY gt "&#62;">
+  <!ENTITY lang "&#9001;">
+  <!ENTITY rang "&#9002;">
+  <!ENTITY amp "&#38;">
+]>
+
+<page xmlns:html="http://www.w3.org/1999/xhtml"
+      navpath="events,registration">
+  <title>2015 Symposium Registration</title>
+  
+  <content>
+    <p>Please sign up using the form below to attend this year's
+    face-to-face symposium.  Attendance is free of charge, but all
+    on-site participants must register in advance so that badges and
+    entrance lists may be prepared.  Registration is open until
+    Wednesday, April 8th, or the venue capacity is met, whichever
+    comes earlier.
+    </p>
+
+      <iframe src="https://docs.google.com/forms/d/1Xfxxmvg3YDm2SA8UAPqwEbu4O2gVKrY1GACxiHjWmB8/viewform?embedded=true" width="700" height="880" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+    
+  </content>
+</page>
