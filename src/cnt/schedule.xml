@@ -29,7 +29,11 @@
         </tr>
         <tr>
           <td>09:00</td>
-          <td>Welcome, Introductions, Opening Remarks</td>
+          <td>Welcome, Introductions, Opening Remarks<br/>
+          <div style="margin-left:18px">
+            Hosts: Michael Gruninger, Ram Sriram, George Strawn
+          </div>
+          </td>
         </tr>
         <tr>
           <td>09:30</td>
@@ -45,12 +49,22 @@
         <tr>
           <td>11:00</td>
           <td>Summary Report for Track A---Ontology Integration in
-          IoT</td>
+          IoT
+          <br/>
+          <div style="margin-left:18px">
+            Champions: Ram Sriram, Leo Obrst
+          </div>
+          </td>
         </tr>
         <tr>
           <td>11:45</td>
           <td>Summary Report for Track B---Beyond Semantic Sensor
-          Network Ontologies</td>
+          Network Ontologies
+          <br/>
+          <div style="margin-left:18px">
+            Champions: Gary Berg-Cross, Torsten Hahmann
+          </div>
+          </td>
         </tr>
         <tr>
           <td>12:30</td>
@@ -67,12 +81,22 @@
         <tr>
           <td>15:00</td>
           <td>Summary Report for Track C---Decision Making in
-          Different Domains</td>
+          Different Domains
+          <br/>
+          <div style="margin-left:18px">
+            Champions: Mike Bennett, Ken Baclawski
+          </div>
+          </td>
         </tr>
         <tr>
           <td>15:45</td>
           <td>Summary Report for Track D---Related Standards And
-          Synergies for Emerging IoI Ontologies</td>
+          Synergies for Emerging IoI Ontologies
+          <br/>
+          <div style="margin-left:18px">
+            Champion: Mark Underwood
+          </div>
+          </td>
         </tr>
         <tr>
           <td>16:30</td>
@@ -126,7 +150,11 @@
         </tr>
         <tr>
           <td>11:15</td>
-          <td>Demo Session</td>
+          <td>Demo Session          <br/>
+          <div style="margin-left:18px">
+            Champion: Mark Underwood
+          </div>
+          </td>
         </tr>
         <tr>
           <td>12:45</td>
@@ -134,7 +162,14 @@
         </tr>
         <tr>
           <td>14:00</td>
-          <td>Panel Discussion</td>
+          <td>Panel Discussion
+          <br/>
+          <div style="margin-left:18px">
+            Prof. Eswaran Subrahmanian (moderator)<br/>
+            Elaine Newton<br/>
+            Mark Underwood
+          </div>
+          </td>
         </tr>
         <tr>
           <td>15:30</td>
