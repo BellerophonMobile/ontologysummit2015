@@ -12,8 +12,11 @@
   <title>2015 Symposium Schedule</title>
   
   <content>
-    <p>The following is the tentative schedule for this year's symposium.</p>
-
+    <p>The schedule for this year's symposium is as follows.  Details
+    on participating remotely are available on the <a
+    href="http://ontolog-02.cim3.net/wiki/OntologySummit2015_Symposium">symposium
+    wiki page</a>, as are the synthesis summaries of each track.</p>
+    
     <h3>Monday, April 13</h3>
     <table class="table table-bordered">
       <thead>
@@ -31,7 +34,17 @@
           <td>09:00</td>
           <td>Welcome, Introductions, Opening Remarks<br/>
           <div style="margin-left:18px">
-            Hosts: Michael Gruninger, Ram Sriram, George Strawn
+            Hosts: <a
+            href="http://ontolog-02.cim3.net/wiki/MichaelGruninger">Michael
+            Gruninger</a>, <a
+            href="http://ontolog.cim3.net/cgi-bin/wiki.pl?MarkUnderwood">Mark
+            Underwood</a>, <a
+            href="http://ontolog-02.cim3.net/wiki/RamSriram">Ram
+            Sriram</a>, <a
+            href="http://ontolog-02.cim3.net/wiki/LeoObrst">Leo
+            Obrst</a>, <a
+            href="https://www.nitrd.gov/about/Strawn_bio.aspx">George
+            Strawn</a>
           </div>
           </td>
         </tr>
@@ -52,7 +65,9 @@
           IoT
           <br/>
           <div style="margin-left:18px">
-            Champions: Ram Sriram, Leo Obrst
+            Champions: <a
+            href="http://ontolog-02.cim3.net/wiki/RamSriram">Ram Sriram</a>, <a
+            href="http://ontolog-02.cim3.net/wiki/LeoObrst">Leo Obrst</a>
           </div>
           </td>
         </tr>
@@ -62,7 +77,11 @@
           Network Ontologies
           <br/>
           <div style="margin-left:18px">
-            Champions: Gary Berg-Cross, Torsten Hahmann
+            Champions: <a
+            href="http://ontolog.cim3.net/cgi-bin/wiki.pl?GaryBergCross">Gary
+            Berg-Cross</a>, <a
+            href="http://ontolog-02.cim3.net/wiki/TorstenHahmann">Torsten
+            Hahmann</a>
           </div>
           </td>
         </tr>
@@ -84,7 +103,8 @@
           Different Domains
           <br/>
           <div style="margin-left:18px">
-            Champions: Mike Bennett, Ken Baclawski
+            Champions: <a
+          href="http://ontolog-02.cim3.net/wiki/MikeBennett">Mike Bennett</a>, <a href="http://ontolog.cim3.net/cgi-bin/wiki.pl?KenBaclawski">Ken Baclawski</a>
           </div>
           </td>
         </tr>
@@ -94,7 +114,8 @@
           Synergies for Emerging IoI Ontologies
           <br/>
           <div style="margin-left:18px">
-            Champion: Mark Underwood
+            Champion: <a
+            href="http://ontolog.cim3.net/cgi-bin/wiki.pl?MarkUnderwood">Mark Underwood</a>
           </div>
           </td>
         </tr>
@@ -152,7 +173,8 @@
           <td>11:15</td>
           <td>Demo Session          <br/>
           <div style="margin-left:18px">
-            Champion: Mark Underwood
+            Champion: <a
+            href="http://ontolog.cim3.net/cgi-bin/wiki.pl?MarkUnderwood">Mark Underwood</a>
           </div>
           </td>
         </tr>
@@ -162,12 +184,33 @@
         </tr>
         <tr>
           <td>14:00</td>
-          <td>Panel Discussion
+          <td>Panel Discussion: Ontology and Standardization
           <br/>
           <div style="margin-left:18px">
-            Prof. Eswaran Subrahmanian (moderator)<br/>
-            Elaine Newton<br/>
-            Mark Underwood
+            <a href="http://www.ices.cmu.edu/eswaran-subrahmanian.asp">Prof. Eswaran Subrahmanian</a>, Carnegie Mellon University (moderator)<br/>
+            Elaine Newton, Deputy Standards Liaison, ITL at NIST<br/>
+            Coulin Soutar, Technology Executive, Deloitte<br/>
+            Henrik Stahl, Vice President, Product Management at Oracle<br/>
+            <a href="http://ontolog.cim3.net/cgi-bin/wiki.pl?MarkUnderwood">Mark Underwood</a>, Krypton Brothers<br/>
+            <br/>
+            <div style="font-style:oblique; font-size: 90%">The topic
+            of Ontology and Standardization is interesting and timely
+            because the process of interlinking devices, people, and
+            creating an Internet of Things is a challenge of
+            interoperability and compositionality.  Information
+            technology standards are all around us but the problem of
+            interoperability persists from hospitals to defense
+            systems.  Many have advocated the use of ontologies as a
+            means to mediate between and among devices similar to the
+            efforts in domains such as gene-ontology, parts of
+            medicine, and other domains.  However, we need to
+            understand what role ontologies are expected to play, how
+            are standards in information technology created, and how
+            they may shed light on the approaches to addressing the
+            issue of standardization in ontology.  Does
+            standardization take place in fragments and is it possible
+            to be put together?  If not, what approaches could
+            overcome some of the consequences?</div>
           </div>
           </td>
         </tr>

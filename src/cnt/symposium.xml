@@ -52,6 +52,12 @@
     href="registration.html" class="btn btn-primary btn-sm
     pull-right">Register!</a></p>
 
+    <h3>Remote Participation</h3>    
+    <p>Details on participating remotely are available on the <a
+    href="http://ontolog-02.cim3.net/wiki/OntologySummit2015_Symposium">symposium
+    wiki page</a>. <a
+    href="http://ontolog-02.cim3.net/wiki/OntologySummit2015_Symposium"
+    class="btn btn-primary btn-sm pull-right">Call In</a></p>
   </content>
 </page>
 
